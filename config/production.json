@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://raj:raj@devsocialconnector-mpaqx.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "e229ekwjsnc3",
+  "githubClientId": "6be24e1ddad59acbadac",
+  "githubClientSecret": "0974afc7c27022e1d3d761a1c9426a6ab17ca57c",
+  "serverError": "Something Went Wrong. Please Try Again"
+}
